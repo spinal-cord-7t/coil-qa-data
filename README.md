@@ -1,6 +1,6 @@
 # coil-qa-data
 
-Data for this project can be found at: 
+Data for this project can be found on Openneuro
 
 Human dataset: https://openneuro.org/datasets/ds005025
 
